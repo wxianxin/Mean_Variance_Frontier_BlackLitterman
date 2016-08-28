@@ -35,7 +35,7 @@ Please check "Input & Output.png" for quick reference of input and output.
 
 2. BlackLitterman
 
-0) Please be aware that all of the input should be consistent. For example, the data in backtest "data.txt" is daily closing pricea of a year. Therefore the risk-free rate and excess return should be expressed in terms of daily value.(which are very small). 
+0) Please be aware that all of the input should be consistent. For example, the data in backtest "data.txt" is daily closing prices of a year. Therefore the risk-free rate and excess return should be expressed in terms of daily value.(which are very small). 
 
 1) Input:
 
